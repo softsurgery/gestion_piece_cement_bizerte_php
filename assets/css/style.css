@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite;
+}
+
+.page{
+    display: flex;
+    min-height: 100vh;
+}
+
+
+nav{
+    width:15%;
+}
+
+main{
+    width:75%;
+    margin: 10px;
+    padding: 10px;
+}
+
+aside{
+    width:10%;
+    margin: 10px;
+    padding: 10px;
+    background-color: red;
+
+}
+
+.sample {
+    margin-top: 5rem;
+    background-color: red;
+}
